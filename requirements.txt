@@ -12,3 +12,5 @@ openai
 ipywidgets
 joblib
 scikit-learn
+bm25s
+together
